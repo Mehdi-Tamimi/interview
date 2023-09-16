@@ -1,0 +1,16 @@
+
+
+.form__container {
+    width: 20%;
+    border-left: 1px solid black;
+}
+.form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 16px;
+}
+.searchInputHolder {
+    display: flex;
+    flex-direction: column;
+}

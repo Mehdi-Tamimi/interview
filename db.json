@@ -1,0 +1,305 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alireza",
+      "entranceYear": "2018",
+      "branch": "Physics",
+      "connections": [
+        2,
+        4,
+        6,
+        12,
+        13,
+        15,
+        23,
+        26
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mohammad",
+      "entranceYear": "2020",
+      "branch": "Physics",
+      "connections": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Meysam",
+      "entranceYear": "2020",
+      "branch": "Physics",
+      "connections": [
+        2,
+        5,
+        22
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Milad",
+      "entranceYear": "2021",
+      "branch": "Physics",
+      "connections": [
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Soheil",
+      "entranceYear": "2022",
+      "branch": "Physics",
+      "connections": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sadra",
+      "entranceYear": "2022",
+      "branch": "Physics",
+      "connections": [
+        5,
+        4,
+        1
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Ashkan",
+      "entranceYear": "2022",
+      "branch": "Physics",
+      "connections": [
+        8,
+        13
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Mobin",
+      "entranceYear": "2018",
+      "branch": "Mathmatics",
+      "connections": [
+        12,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mehrsa",
+      "entranceYear": "2018",
+      "branch": "Mathmatics",
+      "connections": [
+        8,
+        12,
+        13,
+        21,
+        20,
+        22
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Mahsa",
+      "entranceYear": "2018",
+      "branch": "Mathmatics",
+      "connections": [
+        12,
+        20,
+        21
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Raya",
+      "entranceYear": "2019",
+      "branch": "Mathmatics",
+      "connections": [
+        12,
+        18,
+        19,
+        14
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Mina",
+      "entranceYear": "2021",
+      "branch": "Mathmatics",
+      "connections": [
+        11,
+        10,
+        9,
+        8,
+        1
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Mehdi",
+      "entranceYear": "2021",
+      "branch": "Mathmatics",
+      "connections": [
+        10,
+        7,
+        8,
+        1,
+        22
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Shayan",
+      "entranceYear": "2022",
+      "branch": "Mathmatics",
+      "connections": [
+        9,
+        15
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Samaneh",
+      "entranceYear": "2022",
+      "branch": "Mathmatics",
+      "connections": [
+        1,
+        9,
+        14,
+        24
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Ali",
+      "entranceYear": "2018",
+      "branch": "computer science",
+      "connections": [
+        9,
+        18,
+        19,
+        20,
+        23,
+        26
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Bahar",
+      "entranceYear": "2018",
+      "branch": "computer science",
+      "connections": [
+        18,
+        19,
+        21
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Parisa",
+      "entranceYear": "2019",
+      "branch": "computer science",
+      "connections": [
+        17,
+        16,
+        8,
+        24
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Elnaz",
+      "entranceYear": "2019",
+      "branch": "computer science",
+      "connections": [
+        11,
+        17,
+        16
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Sahar",
+      "entranceYear": "2022",
+      "branch": "computer science",
+      "connections": [
+        8,
+        16,
+        10,
+        24
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Solaleh",
+      "entranceYear": "2022",
+      "branch": "computer science",
+      "connections": [
+        17,
+        10,
+        23
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Hesaneh",
+      "entranceYear": "2020",
+      "branch": "Physics",
+      "connections": [
+        3,
+        9,
+        13
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Nima",
+      "entranceYear": "2018",
+      "branch": "Mathmatics",
+      "connections": [
+        1,
+        16,
+        21,
+        25
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Sakineh",
+      "entranceYear": "2021",
+      "branch": "Branch",
+      "connections": [
+        15,
+        18,
+        20
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Erfan",
+      "entranceYear": "2021",
+      "branch": "Computer Science",
+      "connections": [
+        23
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Asra",
+      "entranceYear": "2021",
+      "branch": "Computer Science",
+      "connections": [
+        1,
+        16
+      ]
+    }
+  ]
+}
